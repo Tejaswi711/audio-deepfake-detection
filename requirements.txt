@@ -1,0 +1,19 @@
+# Core Packages
+torch==2.0.1
+torchaudio==2.0.2
+librosa==0.10.0
+soundfile==0.12.1
+
+# Audio Processing
+python_speech_features==0.6.1
+webrtcvad==2.0.10  # Voice activity detection
+
+# Data Processing
+numpy==1.24.3
+scipy==1.10.1
+pandas==2.0.1
+scikit-learn==1.2.2
+
+# Utilities
+tqdm==4.65.0
+pyyaml==6.0
